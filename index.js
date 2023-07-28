@@ -1,6 +1,4 @@
-
 const yargs = require('yargs');
-const _ = require('lodash');
 
 const {
     createConfig,

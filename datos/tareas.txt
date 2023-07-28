@@ -1,7 +1,12 @@
 [
   {
-    "id": "6cf21f922",
-    "contenido": "Lenguaje en su version ES6",
-    "titulo": "Javascript"
+    "id": "15c8fe82",
+    "titulo": "Javascript",
+    "contenido": "lenguaje no tipado"
+  },
+  {
+    "id": "31d91329",
+    "titulo": "Oracle",
+    "contenido": "lenguaje no tipado"
   }
 ]
